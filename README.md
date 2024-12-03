@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nicolò Marras - nicosarram@gmail.com
+Nicolò Marras - nicosarram.2005@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
